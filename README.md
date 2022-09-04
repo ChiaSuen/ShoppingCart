@@ -13,9 +13,9 @@ modules
 2. **CRUD Operations** like
 
 * User can add product to their cart and purchase summary.
-* Admin can add product to the product list.
-* Admin can edit the product details.
-* Admin can delete the product from the list.
+* Admin can add new product to the product list.
+* Admin can edit the current product details.
+* Admin can delete the existing product from the list.
 
 3. **Spring Security**
 
