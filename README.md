@@ -87,11 +87,11 @@ modules
 #### Somethings wrong!!
 
 If you find that something's wrong with this package, you can let me know by raising an issue on the GitHub issue tracker, 
-or take it as a task and 🧑‍💻 resolve it 💪 --> create a PullRequest 🛠.
+or take it as a task and 🧑‍💻 resolve it 💪 --> create a PullRequest 🛠. Any correction is welcomed. 
 
 #### Contribution
 
-Contributors are most welcome. Testing workflow
+Contributors are most welcome. Hope for more contributors to test workflow. Thank you for the support.
 
 ### ScreenShots:
 
