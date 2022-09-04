@@ -14,6 +14,8 @@ import com.model.Customer;
 import com.service.CartService;
 import com.service.CustomerService;
 
+import java.util.Scanner;
+
 @Controller
 public class CartController {
 
